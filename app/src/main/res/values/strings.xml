@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Messagge</string>
+    <string name="TextForButt">Send Word</string>
+    <string name="TextForEdit">Enter Word</string>
+</resources>
